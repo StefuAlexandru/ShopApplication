@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<produse>
+  <produs>
+    <cod>001</cod>
+    <denumire>Paine</denumire>
+    <descriere>Paine proaspata, coapta in fiecare dimineata cu cele mai bune ingrediente pentru un gust autentic si natural.</descriere>
+    <stoc>85</stoc>
+    <pret>34.12</pret>
+    <data_valabilitate>2024-12-04</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>002</cod>
+    <denumire>Cereale</denumire>
+    <descriere>Cereale de ovaz, bogate in fibre si nutrienti esentiali pentru un mic dejun sanatos si echilibrat.</descriere>
+    <stoc>105</stoc>
+    <pret>41.45</pret>
+    <data_valabilitate>2024-06-26</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>003</cod>
+    <denumire>Vin</denumire>
+    <descriere>Vin rosu, obtinut din struguri selectati cu grija, maturat in butoaie de stejar pentru un gust intens si rafinat.</descriere>
+    <stoc>50</stoc>
+    <pret>24.86</pret>
+    <data_valabilitate>2024-12-18</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>004</cod>
+    <denumire>Orez</denumire>
+    <descriere>Orez basmati, cu bob lung si aroma delicata, perfect pentru preparate exotice si traditionale.</descriere>
+    <stoc>134</stoc>
+    <pret>11.78</pret>
+    <data_valabilitate>2024-08-27</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>005</cod>
+    <denumire>Branza</denumire>
+    <descriere>Branza maturata, cu textura fina si gust bogat, perfecta pentru platouri de branzeturi si diverse retete culinare.</descriere>
+    <stoc>47</stoc>
+    <pret>35.64</pret>
+    <data_valabilitate>2024-07-20</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>006</cod>
+    <denumire>Ulei</denumire>
+    <descriere>Ulei de floarea soarelui, presat la rece, ideal pentru gatit si salate, cu un gust natural si sanatos.</descriere>
+    <stoc>73</stoc>
+    <pret>37.83</pret>
+    <data_valabilitate>2024-08-08</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>007</cod>
+    <denumire>Lapte</denumire>
+    <descriere>Lapte de vaca, proaspat muls, pasteurizat pentru a asigura o calitate superioara si un gust natural.</descriere>
+    <stoc>126</stoc>
+    <pret>23.45</pret>
+    <data_valabilitate>2024-11-12</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>008</cod>
+    <denumire>Paste</denumire>
+    <descriere>Paste spaghete, din grau dur, ideale pentru retete italiene clasice si moderne.</descriere>
+    <stoc>99</stoc>
+    <pret>14.23</pret>
+    <data_valabilitate>2024-09-22</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>009</cod>
+    <denumire>Suc</denumire>
+    <descriere>Suc natural, obtinut din fructe proaspete, fara adaos de zahar, pentru un gust autentic si revigorant.</descriere>
+    <stoc>58</stoc>
+    <pret>22.68</pret>
+    <data_valabilitate>2024-06-16</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>010</cod>
+    <denumire>Ciocolata</denumire>
+    <descriere>Ciocolata cu lapte, cremoasa si delicioasa, realizata din cacao de inalta calitate si lapte integral.</descriere>
+    <stoc>120</stoc>
+    <pret>8.90</pret>
+    <data_valabilitate>2024-07-05</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>011</cod>
+    <denumire>Ceai</denumire>
+    <descriere>Ceai negru, frunze de calitate superioara, pentru o infuzie aromata si energizanta.</descriere>
+    <stoc>64</stoc>
+    <pret>18.45</pret>
+    <data_valabilitate>2024-10-10</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>012</cod>
+    <denumire>Bere</denumire>
+    <descriere>Bere blonda, cu gust proaspat si racoritor, ideala pentru zilele calde de vara.</descriere>
+    <stoc>89</stoc>
+    <pret>12.30</pret>
+    <data_valabilitate>2024-11-03</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>013</cod>
+    <denumire>Oua</denumire>
+    <descriere>Oua proaspete de gaina, provenite de la ferme locale, perfecte pentru diverse preparate culinare.</descriere>
+    <stoc>150</stoc>
+    <pret>9.80</pret>
+    <data_valabilitate>2024-08-01</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>014</cod>
+    <denumire>Faina</denumire>
+    <descriere>Faina de grau, ideala pentru coacerea painii si a prajiturilor, obtinuta din grau de inalta calitate.</descriere>
+    <stoc>200</stoc>
+    <pret>5.25</pret>
+    <data_valabilitate>2025-01-15</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>015</cod>
+    <denumire>Sunca</denumire>
+    <descriere>Sunca afumata, cu aroma bogata si textura frageda, perfecta pentru sandvisuri si platouri reci.</descriere>
+    <stoc>45</stoc>
+    <pret>25.50</pret>
+    <data_valabilitate>2024-06-30</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>016</cod>
+    <denumire>Zahar</denumire>
+    <descriere>Zahar alb, rafinat, ideal pentru indulcirea bauturilor si deserturilor, obtinut prin metode traditionale.</descriere>
+    <stoc>160</stoc>
+    <pret>7.20</pret>
+    <data_valabilitate>2025-03-22</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>017</cod>
+    <denumire>Iaurt</denumire>
+    <descriere>Iaurt natural, bogat in probiotice, perfect pentru o alimentatie echilibrata si sanatoasa.</descriere>
+    <stoc>75</stoc>
+    <pret>10.90</pret>
+    <data_valabilitate>2024-07-14</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>018</cod>
+    <denumire>Biscuiti</denumire>
+    <descriere>Biscuiti dulci, crocanti si deliciosi, ideali pentru gustari sau alaturi de ceai sau cafea.</descriere>
+    <stoc>98</stoc>
+    <pret>15.75</pret>
+    <data_valabilitate>2024-09-05</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>019</cod>
+    <denumire>Orez</denumire>
+    <descriere>Orez brun, integral, bogat in fibre si nutrienti, ideal pentru o dieta sanatoasa.</descriere>
+    <stoc>120</stoc>
+    <pret>11.50</pret>
+    <data_valabilitate>2024-12-25</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>020</cod>
+    <denumire>Cafea</denumire>
+    <descriere>Cafea macinata, obtinuta din boabe de cafea de inalta calitate, prajite perfect pentru un gust intens.</descriere>
+    <stoc>85</stoc>
+    <pret>30.00</pret>
+    <data_valabilitate>2025-04-10</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>021</cod>
+    <denumire>Laptele</denumire>
+    <descriere>Laptele integral, bogat in calciu si vitamine, perfect pentru un mic dejun sanatos.</descriere>
+    <stoc>95</stoc>
+    <pret>16.30</pret>
+    <data_valabilitate>2024-08-20</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>022</cod>
+    <denumire>Ulei de masline</denumire>
+    <descriere>Ulei de masline extravirgin, presat la rece, ideal pentru salate si preparate mediteraneene.</descriere>
+    <stoc>55</stoc>
+    <pret>24.50</pret>
+    <data_valabilitate>2025-02-14</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>023</cod>
+    <denumire>Unt</denumire>
+    <descriere>Unt natural, obtinut din smantana proaspata, ideal pentru gatit si copt.</descriere>
+    <stoc>78</stoc>
+    <pret>18.20</pret>
+    <data_valabilitate>2024-09-10</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>024</cod>
+    <denumire>Cartofi</denumire>
+    <descriere>Cartofi albi, proaspeti si nutritivi, perfecti pentru diverse retete culinare.</descriere>
+    <stoc>200</stoc>
+    <pret>10.00</pret>
+    <data_valabilitate>2024-07-25</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>025</cod>
+    <denumire>Morcovi</denumire>
+    <descriere>Morcovi proaspeti, crocanti si bogati in vitamine, ideali pentru salate si supe.</descriere>
+    <stoc>150</stoc>
+    <pret>7.30</pret>
+    <data_valabilitate>2024-07-15</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>026</cod>
+    <denumire>Pepene galben</denumire>
+    <descriere>Pepene galben dulce, zemos si aromat, perfect pentru deserturi racoritoare de vara.</descriere>
+    <stoc>40</stoc>
+    <pret>12.50</pret>
+    <data_valabilitate>2024-06-30</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>027</cod>
+    <denumire>Mere</denumire>
+    <descriere>Mere rosii, crocante si dulci, perfecte pentru gustari sanatoase si deserturi.</descriere>
+    <stoc>110</stoc>
+    <pret>9.20</pret>
+    <data_valabilitate>2024-08-05</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>028</cod>
+    <denumire>Pere</denumire>
+    <descriere>Pere dulci, suculente si aromate, ideale pentru deserturi si salate de fructe.</descriere>
+    <stoc>75</stoc>
+    <pret>14.40</pret>
+    <data_valabilitate>2024-07-28</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>029</cod>
+    <denumire>Caise</denumire>
+    <descriere>Caise zemoase, dulci si aromate, perfecte pentru gustari sanatoase si conserve.</descriere>
+    <stoc>65</stoc>
+    <pret>18.70</pret>
+    <data_valabilitate>2024-07-22</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>030</cod>
+    <denumire>Prune</denumire>
+    <descriere>Prune dulci, bogate in fibre si vitamine, ideale pentru deserturi si gustari.</descriere>
+    <stoc>90</stoc>
+    <pret>15.30</pret>
+    <data_valabilitate>2024-07-18</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>031</cod>
+    <denumire>Struguri</denumire>
+    <descriere>Struguri verzi, crocanti si dulci, perfecti pentru gustari sanatoase si salate de fructe.</descriere>
+    <stoc>120</stoc>
+    <pret>13.45</pret>
+    <data_valabilitate>2024-09-10</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>032</cod>
+    <denumire>Rosii</denumire>
+    <descriere>Rosii cherry, dulci si zemoase, ideale pentru salate si diverse preparate culinare.</descriere>
+    <stoc>85</stoc>
+    <pret>8.30</pret>
+    <data_valabilitate>2024-07-15</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>033</cod>
+    <denumire>Ardei gras</denumire>
+    <descriere>Ardei gras rosu, proaspat si crocant, perfect pentru salate si mancaruri gatite.</descriere>
+    <stoc>60</stoc>
+    <pret>7.75</pret>
+    <data_valabilitate>2024-08-01</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>034</cod>
+    <denumire>Castraveti</denumire>
+    <descriere>Castraveti proaspeti, crocanti si racoritori, ideali pentru salate si muraturi.</descriere>
+    <stoc>100</stoc>
+    <pret>5.80</pret>
+    <data_valabilitate>2024-07-20</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>035</cod>
+    <denumire>Zmeura</denumire>
+    <descriere>Zmeura dulce, bogata in antioxidanti si vitamine, perfecta pentru deserturi si gustari sanatoase.</descriere>
+    <stoc>45</stoc>
+    <pret>25.50</pret>
+    <data_valabilitate>2024-07-25</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>036</cod>
+    <denumire>Afine</denumire>
+    <descriere>Afine proaspete, pline de vitamine si antioxidanti, ideale pentru deserturi si gustari.</descriere>
+    <stoc>70</stoc>
+    <pret>18.90</pret>
+    <data_valabilitate>2024-08-05</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>037</cod>
+    <denumire>Mure</denumire>
+    <descriere>Mure dulci, aromate si pline de antioxidanti, perfecte pentru deserturi si gustari sanatoase.</descriere>
+    <stoc>55</stoc>
+    <pret>21.20</pret>
+    <data_valabilitate>2024-07-28</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>038</cod>
+    <denumire>Banane</denumire>
+    <descriere>Banane coapte, dulci si aromate, ideale pentru gustari rapide si deserturi.</descriere>
+    <stoc>130</stoc>
+    <pret>10.50</pret>
+    <data_valabilitate>2024-08-10</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>039</cod>
+    <denumire>Kiwi</denumire>
+    <descriere>Kiwi proaspat, bogat in vitamina C si antioxidanti, perfect pentru gustari sanatoase.</descriere>
+    <stoc>95</stoc>
+    <pret>12.80</pret>
+    <data_valabilitate>2024-08-15</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>040</cod>
+    <denumire>Ananas</denumire>
+    <descriere>Ananas dulce, zemos si aromat, ideal pentru deserturi racoritoare si gustari sanatoase.</descriere>
+    <stoc>75</stoc>
+    <pret>15.70</pret>
+    <data_valabilitate>2024-08-20</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>041</cod>
+    <denumire>Miere</denumire>
+    <descriere>Miere naturală de salcâm, dulce și aromată, recoltată din zonele montane.</descriere>
+    <stoc>80</stoc>
+    <pret>28.90</pret>
+    <data_valabilitate>2024-09-30</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>042</cod>
+    <denumire>Porumb</denumire>
+    <descriere>Porumb dulce, proaspăt cules din grădină, perfect pentru grătar sau salate.</descriere>
+    <stoc>110</stoc>
+    <pret>3.50</pret>
+    <data_valabilitate>2024-07-31</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>043</cod>
+    <denumire>Miere</denumire>
+    <descriere>Miere de tei, delicată și parfumată, perfectă pentru îndulcirea ceaiurilor și a deserturilor.</descriere>
+    <stoc>65</stoc>
+    <pret>32.75</pret>
+    <data_valabilitate>2024-08-15</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>044</cod>
+    <denumire>Salată verde</denumire>
+    <descriere>Salată verde proaspătă, crocantă și plină de nutrienți, ideală pentru salate și sandvișuri.</descriere>
+    <stoc>95</stoc>
+    <pret>2.80</pret>
+    <data_valabilitate>2024-07-20</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>045</cod>
+    <denumire>Fructe de pădure</denumire>
+    <descriere>Fructe de pădure mixte, proaspete și bogate în antioxidanți, ideale pentru smoothie-uri și deserturi.</descriere>
+    <stoc>75</stoc>
+    <pret>19.50</pret>
+    <data_valabilitate>2024-08-25</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>046</cod>
+    <denumire>Quinoa</denumire>
+    <descriere>Quinoa ecologică, bogată în proteine și fibre, perfectă pentru salate și preparate vegane.</descriere>
+    <stoc>60</stoc>
+    <pret>15.20</pret>
+    <data_valabilitate>2024-09-05</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>047</cod>
+    <denumire>Migdale</denumire>
+    <descriere>Migdale crude, bogate în grăsimi sănătoase și antioxidanți, perfecte pentru gustări sănătoase.</descriere>
+    <stoc>85</stoc>
+    <pret>22.60</pret>
+    <data_valabilitate>2024-10-10</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>048</cod>
+    <denumire>Arahide</denumire>
+    <descriere>Arahide prăjite și sărate, bogate în proteine și grăsimi sănătoase, ideale pentru gustări rapide.</descriere>
+    <stoc>70</stoc>
+    <pret>7.90</pret>
+    <data_valabilitate>2024-09-15</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>049</cod>
+    <denumire>Hummus</denumire>
+    <descriere>Hummus clasic, preparat din năut și tahini, perfect pentru aperitive și sandvișuri sănătoase.</descriere>
+    <stoc>55</stoc>
+    <pret>12.40</pret>
+    <data_valabilitate>2024-08-28</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>050</cod>
+    <denumire>Seminte de chia</denumire>
+    <descriere>Seminte de chia bio, bogate în fibre și acizi grași omega-3, ideale pentru smoothie-uri și deserturi.</descriere>
+    <stoc>45</stoc>
+    <pret>9.99</pret>
+    <data_valabilitate>2024-09-20</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>051</cod>
+    <denumire>Somon</denumire>
+    <descriere>Somon proaspăt, bogat în acizi grași omega-3, ideal pentru preparate sănătoase la grătar sau la cuptor.</descriere>
+    <stoc>70</stoc>
+    <pret>35.99</pret>
+    <data_valabilitate>2024-09-25</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>052</cod>
+    <denumire>Tofu</denumire>
+    <descriere>Tofu organic, bogat în proteine vegetale, perfect pentru preparate vegane și vegetariene.</descriere>
+    <stoc>50</stoc>
+    <pret>6.50</pret>
+    <data_valabilitate>2024-10-01</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>053</cod>
+    <denumire>Linte</denumire>
+    <descriere>Linte uscată, bogată în fibre și proteine, ideală pentru supe și tocănițe sănătoase.</descriere>
+    <stoc>90</stoc>
+    <pret>4.75</pret>
+    <data_valabilitate>2024-09-30</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>054</cod>
+    <denumire>Brânză feta</denumire>
+    <descriere>Brânză feta autentică, produsă din lapte de capră și oaie, perfectă pentru salate grecești și aperitive.</descriere>
+    <stoc>80</stoc>
+    <pret>9.80</pret>
+    <data_valabilitate>2024-10-05</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>055</cod>
+    <denumire>Suc de portocale</denumire>
+    <descriere>Suc de portocale proaspăt stoarse, bogat în vitamina C, ideal pentru micul dejun sau gustări răcoritoare.</descriere>
+    <stoc>100</stoc>
+    <pret>7.20</pret>
+    <data_valabilitate>2024-09-22</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>056</cod>
+    <denumire>Musetel</denumire>
+    <descriere>Ceai de mușețel, reconfortant și relaxant, ideal pentru momentele de relaxare și tratarea insomniei.</descriere>
+    <stoc>120</stoc>
+    <pret>3.99</pret>
+    <data_valabilitate>2024-12-15</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>057</cod>
+    <denumire>Migdale</denumire>
+    <descriere>Migdale crude și nesărate, bogate în nutrienți și antioxidanți, perfecte pentru gustări sănătoase.</descriere>
+    <stoc>85</stoc>
+    <pret>22.60</pret>
+    <data_valabilitate>2024-10-10</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>058</cod>
+    <denumire>Grepfrut</denumire>
+    <descriere>Grepfrut proaspăt, bogat în vitamina C și fibre, ideal pentru salate și sucuri naturale.</descriere>
+    <stoc>65</stoc>
+    <pret>3.30</pret>
+    <data_valabilitate>2024-09-20</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>059</cod>
+    <denumire>Quinoa</denumire>
+    <descriere>Quinoa tricoloră, bogată în proteine și nutrienți esențiali, perfectă pentru salate și preparate vegane.</descriere>
+    <stoc>55</stoc>
+    <pret>14.99</pret>
+    <data_valabilitate>2024-10-30</data_valabilitate>
+  </produs>
+  <produs>
+    <cod>060</cod>
+    <denumire>Merișoare</denumire>
+    <descriere>Merișoare proaspete, bogate în antioxidanți și vitamine, ideale pentru smoothie-uri și deserturi sănătoase.</descriere>
+    <stoc>75</stoc>
+    <pret>18.50</pret>
+    <data_valabilitate>2024-09-28</data_valabilitate>
+   </produs>
+</produse>

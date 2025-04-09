@@ -1,0 +1,338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\Desktop\\Examen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|C:\\Users\\Alex\\Desktop\\Examen\\examen\\qr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|solutionrelative:examen\\qr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|C:\\Users\\Alex\\Desktop\\Examen\\examen\\adresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|solutionrelative:examen\\adresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|c:\\users\\alex\\desktop\\examen\\examen\\myaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|solutionrelative:examen\\myaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|C:\\Users\\Alex\\Desktop\\Examen\\examen\\myaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|solutionrelative:examen\\myaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|C:\\Users\\Alex\\Desktop\\Examen\\examen\\produs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|solutionrelative:examen\\produs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|C:\\Users\\Alex\\Desktop\\Examen\\examen\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|solutionrelative:examen\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|C:\\Users\\Alex\\Desktop\\Examen\\examen\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|solutionrelative:examen\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|C:\\Users\\Alex\\Desktop\\Examen\\examen\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|solutionrelative:examen\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|C:\\Users\\Alex\\Desktop\\Examen\\examen\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|solutionrelative:examen\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|C:\\Users\\Alex\\Desktop\\Examen\\examen\\mainpageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|solutionrelative:examen\\mainpageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|C:\\Users\\Alex\\Desktop\\Examen\\examen\\mainpageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|solutionrelative:examen\\mainpageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|C:\\Users\\Alex\\Desktop\\Examen\\examen\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|solutionrelative:examen\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|C:\\Users\\Alex\\Desktop\\Examen\\examen\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|solutionrelative:examen\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|C:\\Users\\Alex\\Desktop\\Examen\\examen\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|solutionrelative:examen\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|C:\\Users\\Alex\\Desktop\\Examen\\examen\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|solutionrelative:examen\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|C:\\Users\\Alex\\Desktop\\Examen\\examen\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|solutionrelative:examen\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|C:\\Users\\Alex\\Desktop\\Examen\\examen\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|solutionrelative:examen\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|C:\\Users\\Alex\\Desktop\\Examen\\examen\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|solutionrelative:examen\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|C:\\Users\\Alex\\Desktop\\Examen\\examen\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|solutionrelative:examen\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|C:\\Users\\Alex\\Desktop\\Examen\\examen\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE85893-9478-4E5C-962B-A8B64F26DA83}|Examen\\Examen.csproj|solutionrelative:examen\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Examen\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\LoginForm.cs",
+              "RelativeToolTip": "Examen\\LoginForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-04-09T08:02:16.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Factory.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\Factory.cs",
+              "RelativeDocumentMoniker": "Examen\\Factory.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\Factory.cs",
+              "RelativeToolTip": "Examen\\Factory.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:02:16.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyAccount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\MyAccount.cs",
+              "RelativeDocumentMoniker": "Examen\\MyAccount.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\MyAccount.cs [Design]",
+              "RelativeToolTip": "Examen\\MyAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:02:16.89Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\MyAccount.cs",
+              "RelativeDocumentMoniker": "Examen\\MyAccount.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\MyAccount.cs",
+              "RelativeToolTip": "Examen\\MyAccount.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAAAAB4BAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:02:17.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\Client.cs",
+              "RelativeDocumentMoniker": "Examen\\Client.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\Client.cs",
+              "RelativeToolTip": "Examen\\Client.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAAAIwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:02:17.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Produs.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\Produs.cs",
+              "RelativeDocumentMoniker": "Examen\\Produs.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\Produs.cs",
+              "RelativeToolTip": "Examen\\Produs.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAADMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:02:17.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainPageForm.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\MainPageForm.cs",
+              "RelativeDocumentMoniker": "Examen\\MainPageForm.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\MainPageForm.cs",
+              "RelativeToolTip": "Examen\\MainPageForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-04-09T08:02:17.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Adresa.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\Adresa.cs",
+              "RelativeDocumentMoniker": "Examen\\Adresa.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\Adresa.cs",
+              "RelativeToolTip": "Examen\\Adresa.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAuwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:02:17.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QR.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\QR.cs",
+              "RelativeDocumentMoniker": "Examen\\QR.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\QR.cs",
+              "RelativeToolTip": "Examen\\QR.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAA9wL0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:02:17.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignUpForm.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\SignUpForm.cs",
+              "RelativeDocumentMoniker": "Examen\\SignUpForm.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\SignUpForm.cs",
+              "RelativeToolTip": "Examen\\SignUpForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-04-09T08:02:16.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainPageForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\MainPageForm.cs",
+              "RelativeDocumentMoniker": "Examen\\MainPageForm.cs",
+              "ToolTip": "C:\\Users\\alexs\\Desktop\\POO\\Examen\\Examen\\MainPageForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\alexs\\Desktop\\POO\\Examen\\Examen\\MainPageForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-04-09T08:02:17.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SignUpForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\SignUpForm.cs",
+              "RelativeDocumentMoniker": "Examen\\SignUpForm.cs",
+              "ToolTip": "C:\\Users\\alexs\\Desktop\\POO\\Examen\\Examen\\SignUpForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\alexs\\Desktop\\POO\\Examen\\Examen\\SignUpForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-04-09T08:02:17.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Examen\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\alexs\\Desktop\\POO\\Examen\\Examen\\LoginForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\alexs\\Desktop\\POO\\Examen\\Examen\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-04-09T08:02:17.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\Invoice.cs",
+              "RelativeDocumentMoniker": "Examen\\Invoice.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\Invoice.cs",
+              "RelativeToolTip": "Examen\\Invoice.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowCgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:02:17.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\Factura.cs",
+              "RelativeDocumentMoniker": "Examen\\Factura.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\Factura.cs",
+              "RelativeToolTip": "Examen\\Factura.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-04-09T08:02:17.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Factura.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\Factura.cs",
+              "RelativeDocumentMoniker": "Examen\\Factura.cs",
+              "ToolTip": "C:\\Users\\alexs\\Desktop\\POO\\Examen\\Examen\\Factura.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\alexs\\Desktop\\POO\\Examen\\Examen\\Factura.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-04-09T08:02:17.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Checkout.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\Checkout.cs",
+              "RelativeDocumentMoniker": "Examen\\Checkout.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\Checkout.cs",
+              "RelativeToolTip": "Examen\\Checkout.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAGEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-04-09T08:02:17.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Checkout.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\Checkout.cs",
+              "RelativeDocumentMoniker": "Examen\\Checkout.cs",
+              "ToolTip": "C:\\Users\\alexs\\Desktop\\POO\\Examen\\Examen\\Checkout.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\alexs\\Desktop\\POO\\Examen\\Examen\\Checkout.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-04-09T08:02:17.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Deposit.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\Deposit.cs",
+              "RelativeDocumentMoniker": "Examen\\Deposit.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\Deposit.cs",
+              "RelativeToolTip": "Examen\\Deposit.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowGwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:02:17.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "Examen\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\Examen\\Examen\\LoginForm.Designer.cs",
+              "RelativeToolTip": "Examen\\LoginForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-04-09T08:02:17.364Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

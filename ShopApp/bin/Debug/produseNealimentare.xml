@@ -1,0 +1,371 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<produse>
+  <produs>
+    <cod>1600</cod>
+    <denumire>Racord filet exterior</denumire>
+    <descriere>18X3/4"</descriere>
+    <pret>469</pret>
+    <stoc>6</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>1602</cod>
+    <denumire>Racord filet interior</denumire>
+    <descriere>16x3/4"</descriere>
+    <pret>262</pret>
+    <stoc>51</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>1608</cod>
+    <denumire>Teu filet exterior</denumire>
+    <descriere>16x1/2"</descriere>
+    <pret>506</pret>
+    <stoc>62</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>1609</cod>
+    <denumire>Teu filet interior</denumire>
+    <descriere>16x1/2"</descriere>
+    <pret>354</pret>
+    <stoc>480</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>1604</cod>
+    <denumire>Cot filet exterior</denumire>
+    <descriere>20x1/2"</descriere>
+    <pret>47</pret>
+    <stoc>10</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>1605</cod>
+    <denumire>Cot filet interior</denumire>
+    <descriere>16x1/2"</descriere>
+    <pret>42</pret>
+    <stoc>149</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>1606</cod>
+    <denumire>Racord perete(terminal)</denumire>
+    <descriere>20x1/2"</descriere>
+    <pret>519</pret>
+    <stoc>29</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>1601</cod>
+    <denumire>Racord drept (mufa)</denumire>
+    <descriere>18x18</descriere>
+    <pret>538</pret>
+    <stoc>34</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>1607</cod>
+    <denumire>Teu egal</denumire>
+    <descriere>18x18x18</descriere>
+    <pret>927</pret>
+    <stoc>135</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>1610</cod>
+    <denumire>Cruce</denumire>
+    <descriere>16x16x16x16</descriere>
+    <pret>105</pret>
+    <stoc>122</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>1635</cod>
+    <denumire>Adaptator</denumire>
+    <descriere>18x3/4"</descriere>
+    <pret>76</pret>
+    <stoc>139</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>1636</cod>
+    <denumire>Adaptator</denumire>
+    <descriere>18x2"</descriere>
+    <pret>33</pret>
+    <stoc>163</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>1641</cod>
+    <denumire>Racord drept universal</denumire>
+    <descriere>18x18</descriere>
+    <pret>84</pret>
+    <stoc>113</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>1642</cod>
+    <denumire>Racord drept universal</denumire>
+    <descriere>18x1/2"</descriere>
+    <pret>78</pret>
+    <stoc>150</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>1643</cod>
+    <denumire>Cot universal</denumire>
+    <descriere>18x18</descriere>
+    <pret>209</pret>
+    <stoc>152</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>1647</cod>
+    <denumire>Teu universal</denumire>
+    <descriere>18x18x18</descriere>
+    <pret>344</pret>
+    <stoc>117</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>1649</cod>
+    <denumire>Teu universal cu filet int.</denumire>
+    <descriere>18x1/2Fx18</descriere>
+    <pret>144</pret>
+    <stoc>60</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>1200</cod>
+    <denumire>Racord drept filet ext.</denumire>
+    <descriere>10x1/2"</descriere>
+    <pret>54</pret>
+    <stoc>1</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>1207</cod>
+    <denumire>Teu egal</denumire>
+    <descriere>12x12x12</descriere>
+    <pret>102</pret>
+    <stoc>219</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>1203</cod>
+    <denumire>Cot egal</denumire>
+    <descriere>12x12</descriere>
+    <pret>44</pret>
+    <stoc>1</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>1209</cod>
+    <denumire>Teu cu filet central int.</denumire>
+    <descriere>14x1/2"x14</descriere>
+    <pret>81</pret>
+    <stoc>128</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>1206</cod>
+    <denumire>Racord terminal cu filet int.</denumire>
+    <descriere>12x1/2"</descriere>
+    <pret>124</pret>
+    <stoc>35</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>1300</cod>
+    <denumire>Racord drept filet ext. cu O-rings</denumire>
+    <descriere>12x1/2"</descriere>
+    <pret>63</pret>
+    <stoc>119</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>1460</cod>
+    <denumire>Racord drept filet ext.</denumire>
+    <descriere>20x1/2"</descriere>
+    <pret>186</pret>
+    <stoc>219</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>1461</cod>
+    <denumire>Racord egal(mufa)</denumire>
+    <descriere>20x20</descriere>
+    <pret>298</pret>
+    <stoc>146</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>1462</cod>
+    <denumire>Racord drept filet int.</denumire>
+    <descriere>20x1/2"</descriere>
+    <pret>211</pret>
+    <stoc>260</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>1463</cod>
+    <denumire>Cot egal</denumire>
+    <descriere>20x20</descriere>
+    <pret>322</pret>
+    <stoc>41</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>1464</cod>
+    <denumire>Cot filet ext.</denumire>
+    <descriere>25x3/4"</descriere>
+    <pret>304</pret>
+    <stoc>76</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>1465</cod>
+    <denumire>Cot filet int.</denumire>
+    <descriere>25x3/4"</descriere>
+    <pret>307</pret>
+    <stoc>121</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>1467</cod>
+    <denumire>Teu egal</denumire>
+    <descriere>20x20x20</descriere>
+    <pret>438</pret>
+    <stoc>231</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>1603</cod>
+    <denumire>Cot egal</denumire>
+    <descriere>14x14</descriere>
+    <pret>283</pret>
+    <stoc>107</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>89</cod>
+    <denumire>Clapeta pt.rob.aerisire</denumire>
+    <descriere>3/8"</descriere>
+    <pret>38</pret>
+    <stoc>54</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>90</cod>
+    <denumire>Cot filet interior</denumire>
+    <descriere>1/2"</descriere>
+    <pret>70</pret>
+    <stoc>241</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>92</cod>
+    <denumire>Cot filet interior exterior</denumire>
+    <descriere>3/4"</descriere>
+    <pret>165</pret>
+    <stoc>142</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>95</cod>
+    <denumire>Racord olandez cot</denumire>
+    <descriere>1/2"</descriere>
+    <pret>486</pret>
+    <stoc>105</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>97</cod>
+    <denumire>Racord olandez cot filet interior exterior</denumire>
+    <descriere>1/2"</descriere>
+    <pret>500</pret>
+    <stoc>81</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>130</cod>
+    <denumire>Teu 90</denumire>
+    <descriere>3/4"</descriere>
+    <pret>220</pret>
+    <stoc>119</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>180</cod>
+    <denumire>Cruce</denumire>
+    <descriere>1/2"</descriere>
+    <pret>520</pret>
+    <stoc>464</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>240</cod>
+    <denumire>Mufa reductie filet interior</denumire>
+    <descriere>1/2"X3/8"</descriere>
+    <pret>120</pret>
+    <stoc>331</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>241</cod>
+    <denumire>Reductie filet exterior-interior</denumire>
+    <descriere>1/2"X3/8"</descriere>
+    <pret>36</pret>
+    <stoc>342</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>245</cod>
+    <denumire>Niplu dublu cu reduc"ie</denumire>
+    <descriere>1"X1/2"</descriere>
+    <pret>290</pret>
+    <stoc>107</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>280</cod>
+    <denumire>Niplu dublu</denumire>
+    <descriere>3/8"</descriere>
+    <pret>68</pret>
+    <stoc>106</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>290</cod>
+    <denumire>Dop filetat</denumire>
+    <descriere>1"</descriere>
+    <pret>71</pret>
+    <stoc>45</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>300</cod>
+    <denumire>Dop cu filet interior</denumire>
+    <descriere>1"</descriere>
+    <pret>60</pret>
+    <stoc>39</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>330</cod>
+    <denumire>Racord olandez drept filet interior</denumire>
+    <descriere>1/2"</descriere>
+    <pret>561</pret>
+    <stoc>199</stoc>
+    <garantie>12</garantie>
+  </produs>
+  <produs>
+    <cod>331</cod>
+    <denumire>Racord olandez drept filet exterior interior</denumire>
+    <descriere>1/2"</descriere>
+    <pret>555</pret>
+    <stoc>182</stoc>
+    <garantie>12</garantie>
+  </produs>
+</produse>
